@@ -1,0 +1,14 @@
+The weather Report for: Omaha in Us is: 
+	Current conditions:  clear sky
+	Current Temperature in Fahrenheit:  50.84
+	Current Pressure in hpa:  1019
+	Current Humidity:  26 %
+Continue(y/n)?: 
+
+Enter city: Use ISO letter county code like: https://countrycode.org/
+Enter country code: The weather Report for: Denver in US is: 
+	Current conditions:  clear sky
+	Current Temperature in Fahrenheit:  47.14
+	Current Pressure in hpa:  1021
+	Current Humidity:  34 %
+Continue(y/n)?: 
